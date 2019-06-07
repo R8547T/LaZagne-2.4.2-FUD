@@ -8,7 +8,8 @@ Adım 2: PyInstaller le onu [herne].exe yapın ve biti
 
 
 Pyinstaller komutu :
-https://i.ibb.co/z74BxHn/c.png
+
+	pyinstaller.exe -F .\L0L.py -N r8547T
 
 
 
